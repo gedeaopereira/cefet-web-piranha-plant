@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    background-size: cover;
+    background: url(/imagens/desenho-loucao.jpg) no-repeat center;
+}
+table{
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+table th{
+    background-color: #4d4d4d;
+    color: #e1e1e1;    
+    border: 1px solid black;
+    padding: 5px;
+}
+
+table td{
+    border: 1px solid black;
+    padding: 5px;
+}
