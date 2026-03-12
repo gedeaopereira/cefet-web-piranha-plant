@@ -1,7 +1,7 @@
 body{
     height: 100vh;
     background-size: cover;
-    background: url(/imagens/desenho-loucao.jpg) no-repeat center;
+    background: url(../imagens/desenho-loucao.jpg) no-repeat center;
 }
 table{
     width: 600px;
